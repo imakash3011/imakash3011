@@ -6,9 +6,9 @@
 
 
 - I'm a **Learner** | **Programmer** 
-- About me :- **2x Kaggle Master** | **ML & DS Enthusiast**
-- Currently **Working as an Executive Data Scientist at NielsenIQ India**
-- Willing to contribute more and more in **Data Science and Machine Learning Related Porjects**
+- About me :- **Data Scientist | Ex-NielsenIQ | 2x Kaggle Master** | **ML & DS Enthusiast**
+- Currently **Working as a Data Analyst at TresVista Analytics**
+- Willing to contribute more and more in **Data Science and Machine Learning Related projects**
 
 
 ### Feel Free to Contact me.....
