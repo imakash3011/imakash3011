@@ -7,7 +7,7 @@
 
 - I'm a **Learner** | **Programmer** 
 - About me :- **Data Scientist | Ex-NielsenIQ | 2x Kaggle Master** | **ML & DS Enthusiast**
-- Currently **Working as a Data Analyst at TresVista Analytics**
+- Currently **Working as a Data Analyst-2 at TresVista Analytics**
 - Willing to contribute more and more in **Data Science and Machine Learning Related projects**
 
 
