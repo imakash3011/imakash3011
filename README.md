@@ -6,9 +6,9 @@
 
 
 - I'm a **Learner** | **Programmer** 
-- About me :- **Data Scientist | Ex-NielsenIQ | 2x Kaggle Master** | **ML & DS Enthusiast**
-- Currently **Working as a Data Analyst-2 at Tresvista Analytics**
-- Willing to contribute more and more in **Data Science and Machine Learning Related projects**
+- About me :- **Senior Data Scientist @Relanto.ai | Ex-NielsenIQ | 2x Kaggle Master** | **AI-Enthusiast**
+- Currently **Working as Senior Data Scientist @Relanto.ai**
+- Eager to drive innovation by applying advanced Data Science and Machine Learning techniques to real-world projects.
 
 
 ### Feel Free to Contact me.....
