@@ -1,4 +1,4 @@
-# 👋 Welcome to Akash Patel's Code Universe
+# 👋 Hi, I'm Akash Patel
 
 <div align="center">
   <p>
