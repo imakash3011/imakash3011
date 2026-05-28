@@ -2,10 +2,10 @@
 
 <div align="center">
   <p>
-    <strong>🚀 AI/ML Engineer | 🤖 GenAI Enthusiast | 💻 Open Source Contributor</strong>
+    <strong>🚀 Senior AI/ML Engineer | 🤖 GenAI Enthusiast | 💻 Open Source Contributor</strong>
   </p>
   <p>
-    <strong>2x Kaggle Master | Senior Data Scientist | Problem Solver</strong>
+    <strong>2x Kaggle Master |  Problem Solver</strong>
   </p>
 </div>
 
